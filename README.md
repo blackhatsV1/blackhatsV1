@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blackhatsV1
+- 👋 Hi, I’m @blackhatsV1 (Jayrold Tabalina)
 - 👀 I’m interested in Programming and Developing my skill further.
 - 🌱 I’m currently learning PHP and mysql.
 - 💞️ I’m looking to collaborate on anything.
