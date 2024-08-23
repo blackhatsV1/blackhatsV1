@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything.
 - 📫 You can chat with me through Facebook messenger, link on my profile.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Currently a second year college student at Phinma-University of Iloilo, Philippines. Taking BSIT-Bachelor of Science in Information Technology.
+- ⚡ Fun fact: Currently a third year college student at Phinma-University of Iloilo, Philippines. Taking BSIT-Bachelor of Science in Information Technology.
 
 <!---
 blackhatsV1/blackhatsV1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
